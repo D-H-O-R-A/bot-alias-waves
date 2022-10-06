@@ -1,0 +1,16 @@
+{
+  "name": "bot_alias",
+  "version": "1.0.0",
+  "description": "Bot to mint alias blockchain domain in waves blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Diego H. O. R. Antunes<diegoantunes2301@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "waves-api": "^0.24.2"
+  }
+}
